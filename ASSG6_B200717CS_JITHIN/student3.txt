@@ -1,0 +1,2 @@
+Name: manu	Marks=20 
+Name: ragav	Marks=30 
